@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asserts/2Bv700rb3o.png</file>
+        <file>asserts/btn_playback_next.png</file>
+        <file>asserts/btn_playback_pause.png</file>
+        <file>asserts/btn_playback_play.png</file>
+        <file>asserts/btn_playback_previous.png</file>
+        <file>asserts/folder.png</file>
+        <file>asserts/folder54.png</file>
+        <file>asserts/ic_action_search.png</file>
+        <file>asserts/ic_back.png</file>
+        <file>asserts/ic_history.png</file>
+        <file>asserts/ic_launcher.png</file>
+        <file>asserts/ic_lock_outline_white_24dp.png</file>
+        <file>asserts/ic_more_vert_black_24dp.png</file>
+        <file>asserts/ic_more_vert_white_24dp.png</file>
+        <file>asserts/ic_notification.png</file>
+        <file>asserts/ic_pause_white_36dp.png</file>
+        <file>asserts/ic_play_white_36dp.png</file>
+        <file>asserts/ic_shuffle_white_36dp.png</file>
+        <file>asserts/ic_skip_next_white_36dp.png</file>
+        <file>asserts/ic_skip_previous_white_36dp.png</file>
+        <file>asserts/medium-volume.png</file>
+        <file>asserts/payment_black.png</file>
+        <file>asserts/payment_white.png</file>
+        <file>asserts/previous_black.png</file>
+    </qresource>
+</RCC>
